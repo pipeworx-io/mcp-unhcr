@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/pipeworx-io-mcp-unhcr-badge.png)](https://mseep.ai/app/pipeworx-io-mcp-unhcr)
+
 # mcp-unhcr
 
 UNHCR Refugee Data Finder MCP (keyless).
