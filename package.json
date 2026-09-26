@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-unhcr",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "UNHCR Refugee Data Finder MCP (keyless).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-c2740e1ac03723ab4aacb25ea479039cc61f1037e69bd34115b1134d98d4d8f8",
-    "sourceCommit": "b0fb3c31386cf0256dcf1e2f1b3440435a87ec35"
+    "sourceHash": "v1-5dfdad8c8f075d712ee0b4c6b8f3053b50ee616aa4970a2f2092ffafde47c028",
+    "sourceCommit": "66a0692f029179984440cef6938cba7fdd41d66d"
   }
 }
